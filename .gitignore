@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vault data (NEVER commit encrypted files or keys!)
+vault/
+vault.key
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
