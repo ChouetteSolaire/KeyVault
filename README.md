@@ -12,7 +12,7 @@
 
 ## ▶️ Запуск
 ```bash
-git clone https://github.com/ваш-ник/KeyVault.git
+git clone https://github.com/ChouetteSolaire/KeyVault.git
 cd KeyVault
 pip install -r requirements.txt
 python main.py
